@@ -1,0 +1,29 @@
+.order {
+  border: 1px solid grey;
+}
+.iconify {
+  color: black;
+  font-size: 1.2rem;
+  transition: all 0.2s;
+}
+.remove-icon:hover,
+.minus-icon:hover {
+  color: red;
+}
+.plus-icon:hover {
+  color: rgb(11, 105, 8);
+}
+.form-group {
+  width: 10rem;
+  margin: 0.5rem;
+}
+.cart-item-image {
+  max-width: 5rem;
+}
+.u-text-center {
+  text-align: center;
+}
+.items-table {
+  border: 1px solid grey;
+}
+   
